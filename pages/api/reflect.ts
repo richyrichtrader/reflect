@@ -1,4 +1,9 @@
-// pages/api/reflect.ts
+/pages
+  /api
+    reflect.js   ← must be here
+/components
+app code (React stuff)
+
 import type { NextApiRequest, NextApiResponse } from 'next'
 
 export default async function handler(req: NextApiRequest, res: NextApiResponse) {
