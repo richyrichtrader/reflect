@@ -1,6 +1,6 @@
 /pages
   /api
-    reflect.js   ← must be here
+    reflect.js
 /components
 app code (React stuff)
 
